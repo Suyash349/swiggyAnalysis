@@ -2,11 +2,11 @@
  
 
 Restaurant Distribution
-The bar chart shows that **Kolkata** has the highest number of restaurants in the dataset, followed by **Bangalore** and **Delhi**. This suggests a high market saturation and competition in these cities.
+The bar chart shows that Kolkata has the highest number of restaurants in the dataset, followed by **Bangalore** and **Delhi**. This suggests a high market saturation and competition in these cities.
 
 
 Popular Cuisines
-The most popular food types are **North Indian**, **Chinese**, and **South Indian**. This indicates a strong demand for these cuisines across the analyzed cities.
+The most popular food types are North Indian, Chinese, and South Indian. This indicates a strong demand for these cuisines across the analyzed cities.
 
 
 Price vs. Ratings
